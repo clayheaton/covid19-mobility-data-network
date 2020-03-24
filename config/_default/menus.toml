@@ -14,8 +14,8 @@
   weight = 11
 
 [[main]]
-  name = "Data Use Agreement"
-  url = "#data_use_agreement"
+  name = "Data Use Policy"
+  url = "#data_use_policy"
   weight = 20
 
 [[main]]

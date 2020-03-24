@@ -1,14 +1,62 @@
 +++
-# About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-title = "Biography"
+title = "About the Network"
+subtitle = ""
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.background]
+  # Background color.
+  color = "white"
+  text_color_light = false
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
+
+**Partnerships** 
+
+We are working in partnership with Facebook,
+Camber Analytics, and Cuebiq, who provide our team with aggregated data sets in accordance with data use agreements and strict privacy-preserving policies. Through direct connections with departments of health at the city, state, and country-level, we provide situation reports to decision-makers who are implementing social distancing interventions. These data are critical in providing real-time insights into which public messaging is working and where high risk zones may be for [COVID-19](https://science.sciencemag.org/content/early/2020/03/20/science.abb8021).
+
+**Workflow** 
+
+Researchers receive aggregated data from collaborating technology companies and generate consolidated daily situation reports and analytic support to share with local officials. 
+
+**University partners** 
+
+- Harvard TH Chan School of Public Health
+- Johns Hopkins University Bloomberg School of Public Health
+- Mahidol University
+- Northeastern University
+- Princeton University
+- Southampton University
+- University of California Berkeley
+- University of Chicago
+- University of Colorado Boulder
+- University of Florida,
+- University of Texas at Austin
+- Yale University School of Public Health
+- Warwick University 
+
+**Coordination team** 
+
+This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Diseases at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); and [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief).

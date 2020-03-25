@@ -4,11 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#home"
-  weight = 10
-
-[[main]]
   name = "About"
   url = "#about"
   weight = 11
@@ -23,15 +18,16 @@
   url = "#contact"
   weight = 30
 
-# [[main]]
-#   name = "Publications"
-#   url = "#featured"
-#   weight = 40
-# 
-# [[main]]
-#   name = "Contact"
-#   url = "#contact"
-#   weight = 60
+[[main]]
+  name = "CCDD"
+  url = "https://ccdd.hsph.harvard.edu"
+  weight = 35
+
+[[main]]
+  name = "Member Login"
+  url = "https://3.basecamp.com/4418925/projects"
+  weight = 40
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

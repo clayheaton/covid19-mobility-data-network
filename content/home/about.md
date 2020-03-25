@@ -41,9 +41,10 @@ Camber Analytics, and Cuebiq, who provide our team with aggregated data sets in 
 
 Researchers receive aggregated data from collaborating technology companies and generate consolidated daily situation reports and analytic support to share with local officials. 
 
-**University partners** 
+**Partners** 
 
 - Harvard TH Chan School of Public Health
+- Direct Relief
 - Johns Hopkins University Bloomberg School of Public Health
 - Mahidol University
 - Northeastern University
@@ -59,4 +60,4 @@ Researchers receive aggregated data from collaborating technology companies and 
 
 **Coordination team** 
 
-This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Diseases at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); and [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief).
+This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Diseases at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief); Urs Gasser; and Alex Pompe (Facebook).

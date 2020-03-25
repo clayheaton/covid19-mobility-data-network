@@ -21,7 +21,7 @@ title = "COVID-19 Mobility Data Network"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "mailto:covid19mobilitynetwork@gmail.com"
+  url = "mailto:contact@covid19mobility.org"
   label = "Contact Us"
   icon_pack = "fas"
   icon = "envelope"

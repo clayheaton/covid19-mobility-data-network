@@ -18,4 +18,6 @@ autolink = true
 email_form = 0
 +++
 
-You may contact the team with this email address or through the form below. Media inquiries also can be submitted through either email or form.
+You may contact the team with this email address or through the form below. 
+
+Media inquiries may also be submitted via email or form.

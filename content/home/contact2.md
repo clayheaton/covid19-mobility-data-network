@@ -18,4 +18,8 @@ autolink = true
 email_form = 1
 +++
 
-Please enter your name and your preferred email address. In the Message section, please state your organizational affiliation, your role, and how you hope to work with the COVID-19 Mobility Data Network. A member of the team will reach out to you shortly. Thanks!
+Please enter your name and your preferred email address. 
+
+In the Message section, please state your organizational affiliation, your role, and how you hope to work with the COVID-19 Mobility Data Network. 
+
+A member of the team will reach out to you shortly. Thanks!

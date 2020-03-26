@@ -45,7 +45,6 @@ Researchers receive aggregated data from collaborating technology companies and 
 
 - Harvard TH Chan School of Public Health
 - Direct Relief
-- Harvard Law School
 - Johns Hopkins University Bloomberg School of Public Health
 - Mahidol University
 - Northeastern University

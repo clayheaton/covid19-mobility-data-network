@@ -49,7 +49,7 @@ Researchers receive aggregated data from collaborating technology companies and 
 - Mahidol University
 - Northeastern University
 - Princeton University
-- Southampton University
+- University of Southampton
 - University of California Berkeley
 - University of Chicago
 - University of Colorado Boulder

@@ -1,5 +1,5 @@
 ---
-title: Affiliated Researchers
+title: Mobility Data Network Team
 summary: A list of the researchers involved.
 date: "2020-03-26T00:00:00Z"
 
@@ -13,6 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+**Affiliated Researchers**
 
 The following researchers are members of the COVID-19 Mobility Data Network:
 
@@ -53,3 +55,11 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Tari Martin, NAPSG Foundation
 - Tricia Lawson, NAPSG Foundation
 - Urs Gasser, Harvard Law School
+
+**Support Team**
+
+The following individuals are members of the support team for the COVID-19 Mobility Data Network:
+
+- Alissa Scharf, Center for Communicable Disease Dynamics at the Harvard T.H. Chan School of Public Health
+- Ankur Goel, Harvard Biodesign Lab; B.Tech, Indian Institute of Technology, Delhi
+- Clay Heaton, FXB Center for Health and Human Rights at the Harvard T.H. Chan School of Public Health

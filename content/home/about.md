@@ -60,4 +60,4 @@ Researchers receive aggregated data from collaborating technology companies and 
 
 **Coordination team** 
 
-This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Diseases at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); and [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief).
+This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Disease Dynamics at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); and [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief).

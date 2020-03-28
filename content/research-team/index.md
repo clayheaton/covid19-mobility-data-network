@@ -25,6 +25,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Amy Wesolowski, Johns Hopkins University Bloomberg School of Public Health
 - Andy Tatem, University of Southampton
 - Ayesha Mahmud, University of California at Berkeley
+- Christophe Fraser, Oxford Big Data Institute
 - Daniel Klein, IDM
 - Daniel Larremore, University of Colorado at Boulder
 - Daniel Weinberger, Yale School of Public Health
@@ -36,6 +37,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Lauren Meyers, University of Texas Austin
 - Lorato Magosi, Harvard T.H. Chan School of Public Health
+- Mauricio Santillana, Harvard Medical School
 - Mike Famulare, IDM
 - Mortiz Kraemer, University of Oxford
 - Nishant Kishore, Harvard T.H. Chan School of Public Health
@@ -52,6 +54,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Sam Scarpino, Northeastern University
 - Sarah Cobey, University of Chicago
 - Spencer Fox, University of Texas Austin
+- Stephen Riley, Imperial College
 - Tari Martin, NAPSG Foundation
 - Tricia Lawson, NAPSG Foundation
 - Urs Gasser, Harvard Law School

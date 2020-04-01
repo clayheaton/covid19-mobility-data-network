@@ -26,6 +26,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Andy Tatem, University of Southampton
 - Ayesha Mahmud, University of California at Berkeley
 - Christophe Fraser, Oxford Big Data Institute
+- Clay Heaton, HTEC, Beth Israel Deaconess Medical Center
 - Daniel Klein, IDM
 - Daniel Larremore, University of Colorado at Boulder
 - Daniel Weinberger, Yale School of Public Health
@@ -37,6 +38,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Lauren Meyers, University of Texas Austin
 - Lorato Magosi, Harvard T.H. Chan School of Public Health
+- Mathew Kiang, Stanford University School of Medicine
 - Mauricio Santillana, Harvard Medical School
 - Mike Famulare, IDM
 - Mortiz Kraemer, University of Oxford
@@ -65,4 +67,3 @@ The following individuals are members of the support team for the COVID-19 Mobil
 
 - Alissa Scharf, Center for Communicable Disease Dynamics at the Harvard T.H. Chan School of Public Health
 - Ankur Goel, Harvard Biodesign Lab; B.Tech, Indian Institute of Technology, Delhi
-- Clay Heaton, FXB Center for Health and Human Rights at the Harvard T.H. Chan School of Public Health

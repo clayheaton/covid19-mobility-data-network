@@ -44,8 +44,11 @@ Researchers receive aggregated data from collaborating technology companies and 
 
 **Partners** 
 
-- Harvard TH Chan School of Public Health
 - Direct Relief
+- Harvard TH Chan School of Public Health
+- Indian Institute of Technology Bombay
+- Indian Institute of Technology Madras
+- Indian Institute of Technology Tirupati
 - Johns Hopkins University Bloomberg School of Public Health
 - Mahidol University
 - Northeastern University
@@ -57,6 +60,7 @@ Researchers receive aggregated data from collaborating technology companies and 
 - University of Florida,
 - University of Texas at Austin
 - Yale University School of Public Health
+- Wadhwani AI
 - Warwick University 
 
 **Coordination team** 

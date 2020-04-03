@@ -37,7 +37,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Jessica Metcalf, Princeton University
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Lauren Meyers, University of Texas Austin
-- Lorato Magosi, Harvard T.H. Chan School of Public Health
+- Lerato Magosi, Harvard T.H. Chan School of Public Health
 - Mathew Kiang, Stanford University School of Medicine
 - Mauricio Santillana, Harvard Medical School
 - Mike Famulare, IDM

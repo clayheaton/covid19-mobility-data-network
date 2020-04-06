@@ -1,5 +1,5 @@
 ---
-title: Mobility Data Network Team
+title: Mobility Data Network Partners
 summary: A list of the researchers involved.
 date: "2020-03-26T00:00:00Z"
 
@@ -13,6 +13,22 @@ header:
   caption: ""
   image: ""
 ---
+
+**Partner Communities**
+
+The following locations are partners of the COVID-19 Mobility Data Network:
+
+- Chile
+- India
+- Peru
+- United States
+  - Boston, Massachusetts
+  - California
+  - Cambridge, Massachusetts
+  - Kansas City, Missouri
+  - Louisville, Kentucky
+  - Miama, Florida
+  - New York City, New York
 
 **Affiliated Researchers**
 

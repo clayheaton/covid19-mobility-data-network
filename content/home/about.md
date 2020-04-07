@@ -36,7 +36,7 @@ subtitle = ""
 
 We are working in partnership with Facebook, Camber Systems, and Cuebiq, who provide our team with aggregated data sets in accordance with data use agreements and strict privacy-preserving policies. Through direct connections with departments of health at the city, state, and country-level, we provide situation reports to decision-makers who are implementing social distancing interventions. These data are critical in providing timely insights into the effectiveness of social distancing measures, for identifying potentially high-risk zones, and for planning the roll-back of restrictions. Our position on the use of these data for combatting the Covid-19 pandemic is [articulated in this letter published in Science, on March 23rd, 2020](https://science.sciencemag.org/content/early/2020/03/20/science.abb8021). 
 
-[![Letter in Science](/img/science_lg.png)](https://science.sciencemag.org/content/early/2020/03/20/science.abb8021)
+[![Letter in Science](/img/science_lg.jpg)](https://science.sciencemag.org/content/early/2020/03/20/science.abb8021)
 
 **Workflow** 
 

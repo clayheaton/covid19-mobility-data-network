@@ -41,6 +41,7 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Amy Wesolowski, Johns Hopkins University Bloomberg School of Public Health
 - Andy Tatem, University of Southampton
 - Ayesha Mahmud, University of California at Berkeley
+- Bailey Fosdick, Colorado State University
 - Christophe Fraser, Oxford Big Data Institute
 - Clay Heaton, HTEC, Beth Israel Deaconess Medical Center
 - Daniel Klein, IDM

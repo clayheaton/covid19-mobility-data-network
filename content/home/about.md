@@ -46,6 +46,8 @@ Researchers receive aggregated data from collaborating technology companies and 
 
 - Direct Relief
 - Harvard TH Chan School of Public Health
+- Indian Institute of Science
+- Indian Institute of Technology Bangalore
 - Indian Institute of Technology Bombay
 - Indian Institute of Technology Madras
 - Indian Institute of Technology Tirupati

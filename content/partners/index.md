@@ -40,8 +40,10 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Ali Mostafavi, Texas A&M University
 - Amy Wesolowski, Johns Hopkins University Bloomberg School of Public Health
 - Andy Tatem, University of Southampton
+- Arnab Jana, Indian Institute of Technology Bombay
 - Ayesha Mahmud, University of California at Berkeley
 - Bailey Fosdick, Colorado State University
+- Balaram Ravindran, Indian Institute of Technology Madras
 - Christophe Fraser, Oxford Big Data Institute
 - Clay Heaton, HTEC, Beth Israel Deaconess Medical Center
 - Daniel Klein, IDM
@@ -53,6 +55,8 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Hsiao-Han Chang, National Tsing Hua University
 - Jessica Metcalf, Princeton University
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
+- Kalidas Yeturu, Indian Institute of Technology Tirupat
+- Krishna Prapoorna, Indian Institute of Technology Tirupati
 - Lauren Meyers, University of Texas Austin
 - Lerato Magosi, Harvard T.H. Chan School of Public Health
 - Mathew Kiang, Stanford University School of Medicine
@@ -62,6 +66,8 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Nishant Kishore, Harvard T.H. Chan School of Public Health
 - Pamela Martinez, Harvard T.H. Chan School of Public Health
 - Paul Doherty, NAPSG Foundation
+- Raghu Dharmaraju, Wadhwani AI
+- Rajesh Sundaresan, Indian Institute of Science
 - Rebecca Harned, NAPSG Foundation
 - Rebecca Kahn, Harvard T.H. Chan School of Public Health
 - Rene Neihus, Harvard T.H. Chan School of Public Health/ECDC
@@ -69,10 +75,12 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Rolando Acosta, Harvard T.H. Chan School of Public Health
 - Roy Burstein, IDM
 - Ryan Layer, UC Boulder
+- Saket Kanth, Wadhwani AI
 - Sam Brand, University of Warwick
 - Sam Scarpino, Northeastern University
 - Sarah Cobey, University of Chicago
 - Spencer Fox, University of Texas Austin
+- Srinath Srinivasa, Indian Institute of Technology Bangalore
 - Stephen Riley, Imperial College
 - Tari Martin, NAPSG Foundation
 - Tricia Lawson, NAPSG Foundation

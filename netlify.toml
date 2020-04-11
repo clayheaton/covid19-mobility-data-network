@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/camber"
+  to = "https://covid19.cambersystems.com"
+  status = 302
+  force = true

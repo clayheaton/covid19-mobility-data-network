@@ -1,3 +1,7 @@
+This is the license for the Academic Hugo Theme
+
+----
+
 MIT License
 
 Copyright (c) 2016-present George Cushen

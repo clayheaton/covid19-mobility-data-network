@@ -3,9 +3,11 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
+
 [[main]]
   name = "Dashboards"
-  url = "dashboards/"
+  url = "#dashboards"
   weight = 10
 
 [[main]]

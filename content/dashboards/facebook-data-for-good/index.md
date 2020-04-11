@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Facebook Data for Good Mobility Dashboard"
-summary: "put a blurb here."
+summary: "Movement range data helps us understand how communities are responding to COVID-19 physical distancing interventions in states and counties across the country. This anonymized, aggregated mobility data offers insights into how often people have been moving outside their home area or staying put since February 29, when interventions were first implemented."
 authors: []
 tags: []
 categories: []

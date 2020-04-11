@@ -6,7 +6,7 @@ summary: "Camber Systems built this dashboard in collaboration with epidemiologi
 authors: []
 tags: []
 categories: []
-date: 2020-04-10T00:00:01-00:00
+date: 2020-04-11T00:00:00-00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://camber.covid19mobility.org"
@@ -17,7 +17,7 @@ external_link: "https://camber.covid19mobility.org"
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

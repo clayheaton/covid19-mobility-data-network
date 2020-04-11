@@ -69,7 +69,7 @@ subtitle = "Created by Mobility Data Network partner organizations"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-top:20px;padding-bottom:20px;"
  
  # CSS class.
  css_class = ""

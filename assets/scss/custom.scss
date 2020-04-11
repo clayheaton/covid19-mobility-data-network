@@ -1,5 +1,9 @@
 .universal-wrapper, .article-container {
     width:90%;
-    max-width:1200px;
+    max-width:2400px;
     padding:0;
+}
+
+body > article > div.article-container.pt-3 > h1 {
+    margin: 0;
 }

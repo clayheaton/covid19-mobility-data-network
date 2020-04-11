@@ -16,6 +16,10 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 0
+
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-top:20px;padding-bottom:20px;"
 +++
 
 You may contact the team with this email address or through the form below. 

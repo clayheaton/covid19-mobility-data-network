@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 12  # Order that this section will appear.
 
-title = "Network Dashboards"
-subtitle = "Created by Mobility Data Network partner organizations"
+title = "Visualization Tools"
+subtitle = "This site provides a platform for sharing of data that can safely be made public."
 
 [content]
   # Page type to display. E.g. project.
@@ -73,5 +73,4 @@ subtitle = "Created by Mobility Data Network partner organizations"
  
  # CSS class.
  css_class = ""
-+++
-
++++ 

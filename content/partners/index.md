@@ -25,10 +25,14 @@ The following locations are partners of the COVID-19 Mobility Data Network:
   - Boston, Massachusetts
   - California
   - Cambridge, Massachusetts
+  - Chicago, Illinois
+  - Colorado
   - Kansas City, Missouri
-  - Louisville, Kentucky
+  - Los Angeles, California
   - Miama, Florida
   - New York City, New York
+  - Santa Clara, California
+  - Washington State
 
 **Affiliated Researchers**
 
@@ -44,25 +48,27 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Ayesha Mahmud, University of California at Berkeley
 - Bailey Fosdick, Colorado State University
 - Balaram Ravindran, Indian Institute of Technology Madras
+- Bryan Grenfell, Princeton University 
 - Christophe Fraser, Oxford Big Data Institute
+- Christine Tedijanto, Harvard TH Chan School of Public Health
 - Clay Heaton, HTEC, Beth Israel Deaconess Medical Center
 - Daniel Klein, IDM
 - Daniel Larremore, University of Colorado at Boulder
 - Daniel Weinberger, Yale School of Public Health
-- Derek Cummings, University of Florida
+- Dennis Chao, IDM
 - Hao Hu, Bill and Melinda Gates Foundation
 - Helen Wearing, University of New Mexico
 - Hsiao-Han Chang, National Tsing Hua University
 - Jessica Metcalf, Princeton University
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
-- Kalidas Yeturu, Indian Institute of Technology Tirupat
+- Kalidas Yeturu, Indian Institute of Technology Tirupati
 - Krishna Prapoorna, Indian Institute of Technology Tirupati
-- Lauren Meyers, University of Texas Austin
 - Lerato Magosi, Harvard T.H. Chan School of Public Health
 - Mathew Kiang, Stanford University School of Medicine
 - Mauricio Santillana, Harvard Medical School
 - Mike Famulare, IDM
 - Mortiz Kraemer, University of Oxford
+- Nick Geard, University of Melbourne
 - Nishant Kishore, Harvard T.H. Chan School of Public Health
 - Pamela Martinez, Harvard T.H. Chan School of Public Health
 - Paul Doherty, NAPSG Foundation
@@ -79,12 +85,13 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Sam Brand, University of Warwick
 - Sam Scarpino, Northeastern University
 - Sarah Cobey, University of Chicago
-- Spencer Fox, University of Texas Austin
+- Shenyue Jia, Chapman University
 - Srinath Srinivasa, Indian Institute of Technology Bangalore
 - Stephen Riley, Imperial College
 - Tari Martin, NAPSG Foundation
 - Tricia Lawson, NAPSG Foundation
 - Urs Gasser, Harvard Law School
+
 
 **Support Team**
 

@@ -52,3 +52,7 @@ The Network itself will not be the recipient of data. The use of data facilitate
 - National Academies of Sciences. 2017. Innovations in Federal Statistics: Combining Data Sources While Protecting Privacy. https://www.nap.edu/catalog/24652/innovations-in-federal-statistics-combining-data-sources-while-protecting-privacy
 
 - National Academies of Sciences. 2017. Federal Statistics, Multiple Data Sources, and Privacy Protection: Next Steps. https://www.nap.edu/catalog/24893/federal-statistics-multiple-data-sources-and-privacy-protection-next-steps
+
+- Marcel Salathé, Linus Bengtsson, Todd J. Bodnar, Devon D. Brewer, John S. Brownstein, Caroline Buckee, Ellsworth M. Campbell, Ciro Cattuto, Shashank Khandelwal, Patricia L. Mabry, Alessandro Vespignani. 2012. Digital Epidemiology. PLOS Computational Biology. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002616
+
+- Yves-Alexandre de Montjoye, Sébastien Gambs, [...], and Linus Bengtsson. 2018. On the privacy-conscientious use of mobile phone data. Scientific Data. https://www.ncbi.nlm.nih.gov/pubmed/30532052

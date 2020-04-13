@@ -73,7 +73,7 @@ subtitle = "Our position on the use of these data for combatting the Covid-19 pa
 
 [advanced]
  # Custom CSS. 
- css_style = "margin-top:-15px;"
+ css_style = "margin-top:0px;"
  
  # CSS class.
  css_class = ""

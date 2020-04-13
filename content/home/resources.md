@@ -10,7 +10,7 @@ subtitle = "Our position on the use of these data for combatting the Covid-19 pa
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "resources"
+  page_type = "network_resources"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

@@ -6,19 +6,19 @@
 
 
 [[main]]
-  name = "Dashboards"
+  name = "Visualization Tools"
   url = "#dashboards"
-  weight = 10
+  weight = 09
 
 [[main]]
   name = "About"
-  url = "#about"
+  url = "#about01"
   weight = 11
 
 [[main]]
-  name = "Data Use Policy"
-  url = "#data_use_policy"
-  weight = 20
+  name = "Resources"
+  url = "#technical_resources"
+  weight = 10
 
 [[main]]
   name = "Partners"

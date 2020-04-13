@@ -14,7 +14,32 @@ header:
   image: ""
 ---
 
-**Partner Communities**
+We are working in partnership with Facebook, Camber Systems, and Cuebiq, who provide our team with aggregated data sets in accordance with data use agreements and strict privacy-preserving policies. Through direct connections with departments of health at the city, state, and country-level, we provide situation reports to decision-makers who are implementing social distancing interventions. These data are critical in providing timely insights into the effectiveness of social distancing measures, for identifying potentially high-risk zones, and for planning the roll-back of restrictions. 
+
+### Partner Organizations and Institutions
+
+- Direct Relief
+- Harvard TH Chan School of Public Health
+- Indian Institute of Science
+- Indian Institute of Technology Bangalore
+- Indian Institute of Technology Bombay
+- Indian Institute of Technology Madras
+- Indian Institute of Technology Tirupati
+- Johns Hopkins University Bloomberg School of Public Health
+- Mahidol University
+- Northeastern University
+- Princeton University
+- University of Southampton
+- University of California Berkeley
+- University of Chicago
+- University of Colorado Boulder
+- University of Florida,
+- University of Texas at Austin
+- Yale University School of Public Health
+- Wadhwani AI
+- Warwick University 
+
+### Partner Communities
 
 The following locations are partners of the COVID-19 Mobility Data Network:
 
@@ -34,7 +59,7 @@ The following locations are partners of the COVID-19 Mobility Data Network:
   - Santa Clara, California
   - Washington State
 
-**Affiliated Researchers**
+### Affiliated Researchers
 
 The following researchers are members of the COVID-19 Mobility Data Network:
 
@@ -92,8 +117,11 @@ The following researchers are members of the COVID-19 Mobility Data Network:
 - Tricia Lawson, NAPSG Foundation
 - Urs Gasser, Harvard Law School
 
+### Coordination Team
 
-**Support Team**
+This effort is led by [Caroline Buckee](https://ccdd.hsph.harvard.edu/people/caroline-buckee/) at the [Center for Communicable Disease Dynamics at Harvard Chan](https://ccdd.hsph.harvard.edu/covid-19-research/); [Satchit Balsari](https://fxb.harvard.edu/people/satchit-balsari/) (HMS / HSPH); and [Andrew Schroeder](https://www.directrelief.org/author/aschroeder/) (Direct Relief).
+
+### Support Team
 
 The following individuals are members of the support team for the COVID-19 Mobility Data Network:
 

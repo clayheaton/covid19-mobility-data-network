@@ -26,7 +26,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "margin-top:-40px;"
  
  # CSS class.
  css_class = ""

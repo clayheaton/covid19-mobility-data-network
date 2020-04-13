@@ -22,6 +22,10 @@ email_form = 0
  css_style = "padding-top:20px;padding-bottom:20px;"
 +++
 
-You may contact the team with this email address or through the form below. 
+You may contact the team with the email address below. 
 
-Media inquiries may also be submitted via email or form.
+We are not able to respond to every inquiry, however, if you are an infectious disease epidemiologist or modeler, who has a relationship with local/state public health and would be interested in being a part of our Network, please contact us.  
+
+Please note all researchers are required to review and sign our Network Data Use Policy, as well as signing Data Use Agreements with technology companies.
+
+Media inquiries may also be submitted via email.

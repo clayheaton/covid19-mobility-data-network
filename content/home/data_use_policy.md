@@ -17,7 +17,7 @@ subtitle = ""
 
 [design.background]
   # Background color.
-  color = "#F7F7F7"
+  color = "white"
   text_color_light = false
 
 [design.spacing]

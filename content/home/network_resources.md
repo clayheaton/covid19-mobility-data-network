@@ -54,7 +54,7 @@ subtitle = "Our position on the use of these data for combatting the Covid-19 pa
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "white"
+  color = "#F8F8F8"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

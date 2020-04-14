@@ -17,7 +17,7 @@ subtitle = "Network researchers provide daily one-to-one debriefs to local depar
 
 [design.background]
   # Background color.
-  color = "#F7F7F7"
+  color = "white"
   text_color_light = false
 
 [design.spacing]

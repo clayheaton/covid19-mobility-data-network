@@ -20,8 +20,11 @@ title = "COVID-19 Mobility Data Network"
   # color = "navy"
   
   # Background gradient.
-  gradient_end = "#e7f0fd"
+  # gradient_start = "#e7f0fd"
+  # gradient_end = "#accbee"
+
   gradient_start = "#accbee"
+  gradient_end = "#FFFFFF"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

@@ -17,6 +17,11 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
+[design.background]
+  # Background color.
+  color = "#F8F8F8"
+  text_color_light = false
+
 [advanced]
  # Custom CSS. 
  css_style = "padding-top:20px;padding-bottom:20px;"

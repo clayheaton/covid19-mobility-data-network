@@ -17,7 +17,7 @@ subtitle = "The Network provides openly shared resources for researchers interes
 
 [design.background]
   # Background color.
-  color = "white"
+  color = "#F8F8F8"
   text_color_light = false
 
 [design.spacing]
@@ -48,10 +48,10 @@ We maintain a document that outlines
 - aggregation methods and sources of uncertainty
 - methods for analysis of aggregated data and their purpose
 
-### Comparison Analysis across data streams
+### Comparison Analysis across Data Streams
 
 This document provides information about how different sources of data compare to each other. In some cases, the metrics correlate well, but not all. We will be systematically making such comparisons across data as we progress, and providing information about comparability and uncertainty on our site. 
 
-### Future direction
+### Future Direction
 
 As more data become available, Network researchers expect to assist the development of guidelines on how these metrics can inform the relaxation of restrictions, serological surveillance and community-based testing. 

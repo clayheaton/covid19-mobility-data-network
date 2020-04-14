@@ -25,8 +25,8 @@ subtitle = ""
   color = "white"
   
   # Background gradient.
-  gradient_start = "#e7f0fd"
-  gradient_end = "#FFFFFF"
+  # gradient_start = "#e7f0fd"
+  # gradient_end = "#FFFFFF"
   
   # Background image.
 

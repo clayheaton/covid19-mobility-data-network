@@ -54,7 +54,7 @@ subtitle = "This site provides a platform for sharing of data that can safely be
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "#F7F7F7"
+  color = "#FFFFFF"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

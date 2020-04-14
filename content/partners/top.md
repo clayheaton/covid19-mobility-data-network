@@ -27,8 +27,8 @@ subtitle = ""
   # gradient_start = "#e7f0fd"
   # gradient_end = "#accbee"
 
-  gradient_start = "#ffffff"
-  gradient_end = "#dfe9f3"
+  gradient_end = "#e7f0fd"
+  gradient_start = "#e7f0fd"
 
 
 

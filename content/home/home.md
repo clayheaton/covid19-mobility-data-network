@@ -20,8 +20,8 @@ title = "COVID-19 Mobility Data Network"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#e7f0fd"
-  gradient_end = "#accbee"
+  gradient_end = "#e7f0fd"
+  gradient_start = "#accbee"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -50,4 +50,4 @@ title = "COVID-19 Mobility Data Network"
 
 +++
 
-**We are a network of infectious disease epidemiologists** at universities around the world working with technology companies to use aggregated mobility data to support the COVID-19 response. Our goal is to provide daily updates to decision-makers at the state and local levels on how well social distancing interventions are working, using anonymized, aggregated data sets from mobile devices, and to provide them analytic support for interpretation.
+**We are a network of infectious disease epidemiologists** at universities around the world working with technology companies to use aggregated mobility data to support the COVID-19 response. Our goal is to provide daily updates to decision-makers at the state and local levels on how well social distancing interventions are working, using anonymized, aggregated data sets from mobile devices, along with analytic support for interpretation.

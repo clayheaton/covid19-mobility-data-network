@@ -45,7 +45,7 @@ The Network itself will not be the recipient of data. The use of data facilitate
  
 - Micah Altman, Alexandra Wood, David O’Brien, Salil Vadhan, and Urs Gasser. 2015. Towards a Modern Approach to Privacy-Aware Government Data Releases. 30 Berkeley Tech. L. J. 1967, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2779266
 
-- Ben Green, Gabe Cunningham, Ariel Ekblaw, Paul Kominers, Andrew Linzer, and Susan Crawford. 2017. Open Data Privacy (2017). Berkman Klein Center for Internet & Society Research Publication, https://cyber.harvard.edu/publications/2017/02/opendataprivacyplaybook.
+- Ben Green, Gabe Cunningham, Ariel Ekblaw, Paul Kominers, Andrew Linzer, and Susan Crawford. 2017. Open Data Privacy (2017). Berkman Klein Center for Internet & Society Research Publication, [Link at Harvard.edu](https://cyber.harvard.edu/publications/2017/02/opendataprivacyplaybook).
 
 - Simson L. Garfinkel. 2016. De-identifying Government Datasets. NIST Special Publication 800-188 (2nd Draft). https://csrc.nist.gov/csrc/media/publications/sp/800-188/draft/documents/sp800_188_draft2.pdf
 

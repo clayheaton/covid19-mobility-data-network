@@ -39,11 +39,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 <div id="fb-iframe" style="margin-left:calc(50% - 45vw);width: 90vw;">
 
-_This map is based on insights developed by the Covid-19 Mobility Data Network, co-directed by [Direct Relief](https://www.directrelief.org) and researchers from the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu), using aggregated data through [Facebook’s Data for Good program](https://dataforgood.fb.com/docs/covid19/)._
+_This map is based on insights developed by the Covid-19 Mobility Data Network, using aggregated data through [Facebook’s Data for Good program](https://dataforgood.fb.com/docs/covid19/)._
 
   <iframe
         src="https://visualization.covid19mobility.org"

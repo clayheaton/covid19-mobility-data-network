@@ -32,6 +32,12 @@
   force = true
 
 [[redirects]]
+  from = "/dashboards/facebook-data-for-good/images/featured.png"
+  to = "https://visualization.covid19mobility.org/images/featured.png"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/dashboards/facebook-data-for-good"
   to = "https://visualization.covid19mobility.org"
   status = 301

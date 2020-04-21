@@ -30,3 +30,9 @@
   to = "https://covid19.cambersystems.com"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/dashboards/facebook-data-for-good"
+  to = "https://visualization.covid19mobility.org"
+  status = 301
+  force = true

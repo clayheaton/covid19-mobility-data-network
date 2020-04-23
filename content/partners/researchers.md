@@ -65,7 +65,9 @@ subtitle = ""
 - Hao Hu, Bill and Melinda Gates Foundation
 - Helen Wearing, University of New Mexico
 - Hsiao-Han Chang, National Tsing Hua University
+- Jennifer Chan, Northwestern University
 - Jessica Metcalf, Princeton University
+- Jon Zelnor, University of Michigan
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Kalidas Yeturu, Indian Institute of Technology Tirupati
 - Krishna Prapoorna, Indian Institute of Technology Tirupati

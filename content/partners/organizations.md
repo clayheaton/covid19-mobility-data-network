@@ -55,12 +55,14 @@ subtitle = ""
 - Johns Hopkins University Bloomberg School of Public Health
 - Mahidol University
 - Northeastern University
+- Northwestern University
 - Princeton University
-- University of Southampton
 - University of California Berkeley
 - University of Chicago
 - University of Colorado Boulder
-- University of Florida,
+- University of Florida
+- University of Michigan
+- University of Southampton
 - University of Texas at Austin
 - Yale University School of Public Health
 - Wadhwani AI

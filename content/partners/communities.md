@@ -48,6 +48,7 @@ subtitle = ""
 - Chile
 - India
 - Peru
+- United Kingdom
 - United States
   - Boston, Massachusetts
   - California
@@ -61,4 +62,5 @@ subtitle = ""
   - New Orleans, Louisiana
   - New York City, New York
   - Santa Clara, California
+  - Syracuse, New York
   - Washington State

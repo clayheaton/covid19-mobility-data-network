@@ -46,6 +46,7 @@ subtitle = ""
 +++
 
 - Direct Relief
+- Flowminder
 - Harvard TH Chan School of Public Health
 - Indian Institute of Science
 - Indian Institute of Technology Bangalore

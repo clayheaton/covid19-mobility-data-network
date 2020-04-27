@@ -54,6 +54,8 @@ subtitle = ""
 - Ayesha Mahmud, University of California at Berkeley
 - Bailey Fosdick, Colorado State University
 - Balaram Ravindran, Indian Institute of Technology Madras
+- Borworn Panklang, Mahidol University
+- Brooke Nichols, Boston University
 - Bryan Grenfell, Princeton University 
 - Christophe Fraser, Oxford Big Data Institute
 - Christine Tedijanto, Harvard TH Chan School of Public Health
@@ -71,6 +73,7 @@ subtitle = ""
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Kalidas Yeturu, Indian Institute of Technology Tirupati
 - Krishna Prapoorna, Indian Institute of Technology Tirupati
+- Kulchada Pongsoipetch, Mahidol University
 - Lerato Magosi, Harvard T.H. Chan School of Public Health
 - Mathew Kiang, Stanford University School of Medicine
 - Mauricio Santillana, Harvard Medical School
@@ -93,6 +96,7 @@ subtitle = ""
 - Sam Brand, University of Warwick
 - Sam Scarpino, Northeastern University
 - Sarah Cobey, University of Chicago
+- Sheetal Silal, University of Cape Town
 - Shenyue Jia, Chapman University
 - Srinath Srinivasa, Indian Institute of Technology Bangalore
 - Stephen Riley, Imperial College

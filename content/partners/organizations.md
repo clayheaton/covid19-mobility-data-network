@@ -45,6 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Boston University
 - Direct Relief
 - Flowminder
 - Harvard TH Chan School of Public Health
@@ -58,11 +59,13 @@ subtitle = ""
 - Northeastern University
 - Northwestern University
 - Princeton University
+- Texas A&M University
 - University of California Berkeley
+- University of Cape Town
 - University of Chicago
 - University of Colorado Boulder
-- University of Florida
 - University of Michigan
+- University of Oxford
 - University of Southampton
 - University of Texas at Austin
 - Yale University School of Public Health

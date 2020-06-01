@@ -72,9 +72,11 @@ subtitle = ""
 - Jon Zelnor, University of Michigan
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Kalidas Yeturu, Indian Institute of Technology Tirupati
+- Kenneth Engo-Monsen, Telenor Research Group
 - Krishna Prapoorna, Indian Institute of Technology Tirupati
 - Kulchada Pongsoipetch, Mahidol University
 - Lerato Magosi, Harvard T.H. Chan School of Public Health
+- Linus Bengtsson, Flowminder
 - Mathew Kiang, Stanford University School of Medicine
 - Mauricio Santillana, Harvard Medical School
 - Mike Famulare, IDM

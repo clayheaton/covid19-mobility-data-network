@@ -59,7 +59,7 @@ subtitle = ""
 - Northeastern University
 - Northwestern University
 - Princeton University
-- Telenor Research Group
+- Telenor Research
 - Texas A&M University
 - University of California Berkeley
 - University of Cape Town

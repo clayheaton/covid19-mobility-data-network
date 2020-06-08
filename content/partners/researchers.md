@@ -72,7 +72,7 @@ subtitle = ""
 - Jon Zelnor, University of Michigan
 - Justin Lessler, Johns Hopkins University Bloomberg School of Public Health
 - Kalidas Yeturu, Indian Institute of Technology Tirupati
-- Kenneth Engo-Monsen, Telenor Research Group
+- Kenth Engo-Monsen, Telenor Research
 - Krishna Prapoorna, Indian Institute of Technology Tirupati
 - Kulchada Pongsoipetch, Mahidol University
 - Lerato Magosi, Harvard T.H. Chan School of Public Health
